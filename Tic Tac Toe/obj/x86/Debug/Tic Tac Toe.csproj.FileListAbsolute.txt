@@ -1,0 +1,9 @@
+C:\Users\Brian Chaves\Documents\Visual Studio 2013\Projects\Tic Tac Toe\bChaves Assinment 2\bin\Debug\bChaves Assinment 2.exe
+C:\Users\Brian Chaves\Documents\Visual Studio 2013\Projects\Tic Tac Toe\bChaves Assinment 2\bin\Debug\bChaves Assinment 2.pdb
+C:\Users\Brian Chaves\Documents\Visual Studio 2013\Projects\Tic Tac Toe\bChaves Assinment 2\obj\x86\Debug\Tic Tac Toe.csprojResolveAssemblyReference.cache
+C:\Users\Brian Chaves\Documents\Visual Studio 2013\Projects\Tic Tac Toe\bChaves Assinment 2\obj\x86\Debug\NS_TicTacToe.FormIntro.resources
+C:\Users\Brian Chaves\Documents\Visual Studio 2013\Projects\Tic Tac Toe\bChaves Assinment 2\obj\x86\Debug\NS_TicTacToe.formTicTacToe.resources
+C:\Users\Brian Chaves\Documents\Visual Studio 2013\Projects\Tic Tac Toe\bChaves Assinment 2\obj\x86\Debug\NS_TicTacToe.Properties.Resources.resources
+C:\Users\Brian Chaves\Documents\Visual Studio 2013\Projects\Tic Tac Toe\bChaves Assinment 2\obj\x86\Debug\Tic Tac Toe.csproj.GenerateResource.Cache
+C:\Users\Brian Chaves\Documents\Visual Studio 2013\Projects\Tic Tac Toe\bChaves Assinment 2\obj\x86\Debug\bChaves Assinment 2.exe
+C:\Users\Brian Chaves\Documents\Visual Studio 2013\Projects\Tic Tac Toe\bChaves Assinment 2\obj\x86\Debug\bChaves Assinment 2.pdb
